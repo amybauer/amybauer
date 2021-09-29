@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amybauer
+- 👋 Hi, I’m @amybauer, a PhD student (UF Department of Entomology and Nematology)
 - 👀 I’m interested in disease and carrion ecology and use R to analyze my data
 - 🌱 I’m currently learning various ways of (joint) species distribution modeling
 
