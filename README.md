@@ -4,9 +4,7 @@
 - :raised_hands: Data visualization and maps make me happy
 - :bar_chart: I am using R and GIS software to process, analyze, and visualize data
 
-:busts_in_silhouette: Convinced science thrives through collaboration!
-
-Fluent in: :de: :uk:
+:busts_in_silhouette: Convinced science thrives through collaboration! :v: Fluent in: :de: :uk:
 
 <!---
 amybauer/amybauer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
