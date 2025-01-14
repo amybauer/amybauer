@@ -1,10 +1,18 @@
-- 👋 Hi, I’m Amy, a PhD Candidate in the Department of Entomology and Nematology at the University of Florida  :crocodile: :palm_tree:
-- :bulb: I am interested in how the environment affects distribution and abundances of mosquitoes (and any other organism, really) and the resulting implications for vector-borne disease systems 
-- :sparkling_heart: I am passionate about disease and carrion ecology, and ask questions nested in landscape ecology and community ecology
-- :raised_hands: Data visualization and maps make me happy
-- :bar_chart: I am using R and GIS software to process, analyze, and visualize data
+Hi, I’m Amy.
 
-:busts_in_silhouette: Convinced science thrives through collaboration! :v: Fluent in: :de: :uk:
+I am an interdisciplinary researcher interested in taking trait-based and community-level approaches to investigate the effects of changing environments on vector borne disease systems!
+
+
+- Recent PhD graduate (UF, Dec '24), currently based at the Florida Medical Entomology Laboratory
+- Passionate about disease ecology, and ask questions nested in landscape ecology and community ecology (with a side love for disease ecology)
+- Data visualization & maps, transparent accessible and reproducible science, and tea make me happy
+- Primary working with R (and, less often, QGIS)
+
+
+Entomology and Nematology (PhD) | Biodiversity, Ecology and Evolution (MSc) | Environmental Monitoring and Analysis (BSc)
+
+Convinced science thrives through collaboration! 
+Fluent in: :de: :uk:
 
 <!---
 amybauer/amybauer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
